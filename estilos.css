@@ -587,7 +587,7 @@ h1 {
 .dimension::before {
     position: absolute;
     top: 22px;
-    left: -68px;
+    left: -78px;
     z-index: 1;
     display: grid;
     place-items: center;
